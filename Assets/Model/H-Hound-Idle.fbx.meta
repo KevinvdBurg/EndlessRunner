@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 971843f9e53f84fa4b1bbf6f8ff83d76
+timeCreated: 1443085991
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 'camera #23'
+    100002: //RootNode
+    100004: 'light #19'
+    100006: 'light #20'
+    100008: 'light #21'
+    100010: 'light #22'
+    100012: x3ds_Head
+    100014: x3ds_Jaw
+    100016: x3ds_LB_Ca
+    100018: x3ds_LB_Fo
+    100020: x3ds_LB_Th
+    100022: x3ds_LB_To
+    100024: x3ds_LF_ca
+    100026: x3ds_LF_fo
+    100028: x3ds_LF_th
+    100030: x3ds_Neck
+    100032: x3ds_RB_Ca
+    100034: x3ds_RB_Fo
+    100036: x3ds_RB_Th
+    100038: x3ds_RB_To
+    100040: x3ds_RF_ca
+    100042: x3ds_RF_fo
+    100044: x3ds_RF_th
+    100046: x3ds_Tail
+    100048: x3ds_Torso
+    400000: 'camera #23'
+    400002: //RootNode
+    400004: 'light #19'
+    400006: 'light #20'
+    400008: 'light #21'
+    400010: 'light #22'
+    400012: x3ds_Head
+    400014: x3ds_Jaw
+    400016: x3ds_LB_Ca
+    400018: x3ds_LB_Fo
+    400020: x3ds_LB_Th
+    400022: x3ds_LB_To
+    400024: x3ds_LF_ca
+    400026: x3ds_LF_fo
+    400028: x3ds_LF_th
+    400030: x3ds_Neck
+    400032: x3ds_RB_Ca
+    400034: x3ds_RB_Fo
+    400036: x3ds_RB_Th
+    400038: x3ds_RB_To
+    400040: x3ds_RF_ca
+    400042: x3ds_RF_fo
+    400044: x3ds_RF_th
+    400046: x3ds_Tail
+    400048: x3ds_Torso
+    2300000: x3ds_Head
+    2300002: x3ds_Jaw
+    2300004: x3ds_LB_Ca
+    2300006: x3ds_LB_Fo
+    2300008: x3ds_LB_Th
+    2300010: x3ds_LB_To
+    2300012: x3ds_LF_ca
+    2300014: x3ds_LF_fo
+    2300016: x3ds_LF_th
+    2300018: x3ds_Neck
+    2300020: x3ds_RB_Ca
+    2300022: x3ds_RB_Fo
+    2300024: x3ds_RB_Th
+    2300026: x3ds_RB_To
+    2300028: x3ds_RF_ca
+    2300030: x3ds_RF_fo
+    2300032: x3ds_RF_th
+    2300034: x3ds_Tail
+    2300036: x3ds_Torso
+    3300000: x3ds_Head
+    3300002: x3ds_Jaw
+    3300004: x3ds_LB_Ca
+    3300006: x3ds_LB_Fo
+    3300008: x3ds_LB_Th
+    3300010: x3ds_LB_To
+    3300012: x3ds_LF_ca
+    3300014: x3ds_LF_fo
+    3300016: x3ds_LF_th
+    3300018: x3ds_Neck
+    3300020: x3ds_RB_Ca
+    3300022: x3ds_RB_Fo
+    3300024: x3ds_RB_Th
+    3300026: x3ds_RB_To
+    3300028: x3ds_RF_ca
+    3300030: x3ds_RF_fo
+    3300032: x3ds_RF_th
+    3300034: x3ds_Tail
+    3300036: x3ds_Torso
+    4300000: x3ds_Torso
+    4300002: x3ds_LF_th
+    4300004: x3ds_LF_ca
+    4300006: x3ds_LF_fo
+    4300008: x3ds_LB_Th
+    4300010: x3ds_LB_Ca
+    4300012: x3ds_LB_Fo
+    4300014: x3ds_LB_To
+    4300016: x3ds_RB_Th
+    4300018: x3ds_RB_Ca
+    4300020: x3ds_RB_Fo
+    4300022: x3ds_RB_To
+    4300024: x3ds_RF_th
+    4300026: x3ds_RF_ca
+    4300028: x3ds_RF_fo
+    4300030: x3ds_Neck
+    4300032: x3ds_Head
+    4300034: x3ds_Jaw
+    4300036: x3ds_Tail
+    7400000: Sequence-1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
